@@ -1,5 +1,5 @@
 import * as $ from 'jquery';
-import './a';
-require('./b');
+import './home';
+require('./profile');
 
 console.log('out');

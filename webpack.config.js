@@ -4,12 +4,16 @@ module.exports = {
 
     context: path.resolve( __dirname, 'src'),
 
-    entry: "./index.js",
+    entry: {
+        home : "./home.js",
+        profile : "./profile.js",
+        shop : "./shop.js"
+    },
 
     mode: "development",
 
     output: {
-        filename: "out.js",
+        filename: "[name].js",
         path: path.resolve( __dirname, 'dist')
     },
 
