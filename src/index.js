@@ -1,4 +1,5 @@
+import * as $ from 'jquery';
 import './a';
 require('./b');
 
-console.log('init');
+console.log('out');
