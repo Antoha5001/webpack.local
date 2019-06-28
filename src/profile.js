@@ -1,8 +1,5 @@
-import * as app from "./components/application";
-import * as item from "./components/profile-item";
+import  "./profile";
 
-app.action();
+var b = document.body;
 
-console.log("Profile");
-
-item.action();
+b.style.background = "orange";

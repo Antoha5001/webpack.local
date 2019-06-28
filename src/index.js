@@ -1,5 +1,6 @@
-import * as $ from 'jquery';
-import './home';
-require('./profile');
+// import * as $ from 'jquery';
+import './profile';
+// require('./profile');
 
-console.log('out');
+
+console.log('out1');
