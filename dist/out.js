@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _profile__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./profile */ \"./profile.js\");\n// import * as $ from 'jquery';\r\n\r\n// require('./profile');\r\n\r\n\r\nconsole.log('out1');\n\n//# sourceURL=webpack:///./index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _profile__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./profile */ \"./profile.js\");\n// import * as $ from 'jquery';\n\n// require('./profile');\n\n\nconsole.log('out1');\n\n//# sourceURL=webpack:///./index.js?");
 
 /***/ }),
 
@@ -106,7 +106,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _pro
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _profile__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./profile */ \"./profile.js\");\n\r\n\r\nvar b = document.body;\r\n\r\nb.style.background = \"orange\";\r\n\n\n//# sourceURL=webpack:///./profile.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _profile__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./profile */ \"./profile.js\");\n\n\nvar b = document.body;\n\nb.style.background = \"orange\";\n\n\n//# sourceURL=webpack:///./profile.js?");
 
 /***/ })
 
